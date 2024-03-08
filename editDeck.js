@@ -1,3 +1,5 @@
+//This is messy as hell. In short, I wrote this to add the stroke order png's to each card in my kanji deck.
+
 const fs = require('fs')
 
 // Read the image file
